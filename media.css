@@ -1,0 +1,43 @@
+@media screen and (max-width:700px) {
+    .box{
+        width: 30px;
+        font-size: 1rem;
+    }
+    .content{
+        height:75% ;
+    }
+}
+
+@media screen and (max-width:614px) {
+    .text{
+        gap: 10px;
+    }
+}
+
+
+@media screen and (max-width:497px) {
+    .content{
+        height: 72%;
+    }
+    
+    .box{
+        width: 20px;
+        height:15px ;
+        font-size: 0.8rem;
+    }
+
+    .text{
+        gap:5px
+    }
+
+    p{
+        font-size: 10px;
+    }
+
+    .bottom h1{
+        font-size: 2rem;
+    }
+
+    
+    
+}
